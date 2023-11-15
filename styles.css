@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  
+  
+
+  
+}
+
+.game-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 1rem;
+}
+
+.game-card {
+  width: 200px;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.rodape{
+          text-align: center;          
+}
+
+.rounded-right{
+
+                  height: 70px;
+                  
+                  
+
+}
